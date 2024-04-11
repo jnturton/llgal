@@ -115,7 +115,7 @@
 
 # Do not output any absolute thumbnail sizes in HTML code and assume the
 # CSS style sheet will take care of it (in table.index [td.image-slide [img]])
-# slide_dimensions_from_css = 0
+# thumbnails_dimensions_from_css = 0
 
 # Maximal height of thumbnails [--ty <n>]
 # Must be > 0, setting to < 0 resets to default
